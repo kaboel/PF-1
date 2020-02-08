@@ -1,0 +1,20 @@
+{
+  "name": "Muhammad Faiq Allm",
+  "nim": "1741720209",
+  "class": "3A Informatics Engineering",
+  "dob": "September 7th 1999",
+  "email": "faiq.kaboel@gmail.com",
+  "quote": "Don't waste your time on quotes!",
+  "contact": {
+    "phone": "+62 815 1529 1890",
+    "whatsapp": "wa.me/6281515291890",
+    "linkedin": "linkedin.com/in/faiqkaboel",
+    "facebook": "facebook.com/faiqkaboel",
+    "instagram": "instagram.com/_faiqx",
+    "telegram": "@faiqkaboel"
+  },
+  "address": "Batubara Perum. Kav. F4, Malang",
+  "interests": [
+    "GOJEK", "Tokopedia", "Widget Brain", "Vue", "Node"
+  ]
+}
